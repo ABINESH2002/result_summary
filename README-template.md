@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: result-summary-j1b948la8-abinesh2002.vercel.app
+- Solution URL: [solution in vercel](https://result-summary-phi.vercel.app/)
 
 
 ## My process
